@@ -65,7 +65,7 @@ class Rectangle(Base):
         """Getter for x"""
         return self.__x
 
-    @a.setter
+    @x.setter
     def x(self, value):
         """Setter for x"""
         if type(value) != int:
