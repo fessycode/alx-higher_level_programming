@@ -1,4 +1,4 @@
--- To creates the table force_name on a MySQL server.
+-- To creates the table force_name on a MySQL server
 
 CREATE TABLE IF NOT EXISTS force_name (
 	id 	INT,
