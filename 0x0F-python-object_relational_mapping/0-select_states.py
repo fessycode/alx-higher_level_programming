@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" To lists all `states` from the database `hbtn_0e_0_usa`"""
+""" To list all `states` from the database `hbtn_0e_0_usa`"""
 
 
 if __name__ == '__main__':
