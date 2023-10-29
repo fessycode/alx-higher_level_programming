@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-const count = parseInt(process.argv[2]);
+const count = Number(process.argv[2]);
 const symbol = 'X';
 let square = '';
 let a;
