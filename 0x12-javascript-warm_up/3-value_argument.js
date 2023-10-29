@@ -1,9 +1,9 @@
 #!/usr/bin/node
 
-let i;
+let x;
 
-for (i = 0; process.argv[i]; i++) {
+for (x = 0; process.argv[x]; x++) {
   continue;
 }
 
-console.log(i === 2 ? 'No argument' : process.argv[2]);
+console.log(x === 2 ? 'No argument' : process.argv[2]);
